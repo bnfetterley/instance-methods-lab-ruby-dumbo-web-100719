@@ -5,6 +5,6 @@ def bark
   puts "Woof!"
 end
 
-def split
-  puts "The person is walking"
+def sit
+  puts "The dog is sitting"
 end 
